@@ -1,0 +1,27 @@
+﻿    [
+        {
+            "name": "银发少女的绘本集",
+            "description": "简介：旧都なぎ的插画画风跟时下一般的日式美少女插画很不同，风格其实偏向于早期绘本，使用色彩氛,在他的插画中，经常见到高脚蜡烛台等物件，在宗教氛围中，展现的其实是西方古典美少女的可爱姿态。",
+            "Rating": "9.0",
+            "episode": 12,
+            "categorie":"宗教|古典|西方",
+            "studio":"旧都なぎ",
+            "img": "https://z4a.net/images/2023/12/27/yfsn.jpg"
+        },{
+            "name": "少女海报创作者",
+            "description": "简介：唐门外门弟子唐三，因偷学内门绝学为唐门所不容，跳崖明志时却发现没有死，反而以另外一个身份来到了另一个世界，一个属于武魂的世界，名叫斗罗大陆。这里没有魔法，没有斗气，没有武术，却有神奇的武魂。",
+            "Rating": "9.0",
+            "episode": 25,
+            "categorie":"条纹|色彩|活力",
+            "studio":"赤倉",
+            "img": "https://z4a.net/images/2023/12/27/hb.jpg"
+        },{
+            "name": "Alariko",
+            "description": "简介:西班牙插画家alariko,年仅20岁便画出了自己的风格",
+            "Rating": "9.3",
+            "episode": 13,
+            "categorie":"风景|温馨|治愈",
+            "studio":"Alariko",
+            "img": "https://z4a.net/images/2023/12/27/Alariko.jpg"
+        }
+    ]
